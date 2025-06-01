@@ -31,5 +31,5 @@ cd challenge-skipli-local
 
 ### Documentation Setup
 
-- [Frontend Documentation](./frontend/README.md)
-- [Backend Documentation](./backend/README.md)
+- [Frontend Documentation](./frontend)
+- [Backend Documentation](./backend)
